@@ -5,6 +5,14 @@ An android app that changes custom themes at runtime.
 
 The goal of this exercise is to get familiar with Android drawables, styles and themes. By the end of this exercise, you should know how to define a theme in your resources in an XML file, how to define attributes of the theme, how to apply those to your layout file, and finally how to dynamically change the theme of an activity. 
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/alishaalam/ThemeSwitcher/blob/master/ThemeSwitcher.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Usage
 This app is intended to be the base project on top of which new features can be added. To use it, clone the project and import it using the following steps:
 
